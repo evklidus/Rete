@@ -1,16 +1,11 @@
-# rete
+Rete is a flutter super app (possibly related to cryptocurrencies).
+Now the app is in little MVP.
 
-A new Flutter project.
+> Making by Erik Minasov
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Will be added:
+- [ ] Application philosophy & principles
+- [ ] Architecture
+- [ ] Design
+And more ...
