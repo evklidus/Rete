@@ -1,11 +1,4 @@
-Rete is a flutter super app (possibly related to cryptocurrencies).
-Now the app is in little MVP.
+Flutter super app (possibly related to cryptocurrencies).
+Now the app is Sample.
 
 > Making by Erik Minasov
-
-
-# Will be added:
-- [ ] Application philosophy & principles
-- [ ] Architecture
-- [ ] Design
-And more ...
